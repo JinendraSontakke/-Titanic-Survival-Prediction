@@ -1,1 +1,1 @@
-# Titanic-Survival-Prediction
+# Kaggle Titanic Survival Prediction
